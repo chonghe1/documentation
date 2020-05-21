@@ -1,9 +1,10 @@
 ---
 id: linux 系统
 标题: 使用 Prysm.sh 把 Prysm 安装在 GNU/Linux 系统 :
-sidebar_label: Prysm installation script
+sidebar_label: 安装指南
 ---
 
+此页囊括了攻略使用以下指南可以把 Prysm 安装在 GNU/Linux 系统
 Prysm can be installed on GNU/Linux systems using the Prysm build script. This page includes instructions for performing this process.
 
 **Have questions?** Stop by the [#documentation](https://discord.gg/QQZMCgU) channel on Discord and let us know.
