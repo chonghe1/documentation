@@ -1,5 +1,5 @@
 ---
-id: linux : linux 系统
+id: linux
 title: Installing Prysm on GNU/Linux with Prysm.sh :
 sidebar_label: Prysm installation script
 ---
